@@ -1,9 +1,9 @@
 # cyclistic-analysis
-Google Data Analytics Capstone Case Study
+## Google Data Analytics Capstone Case Study
 
 <img width="277" alt="image" src="https://github.com/user-attachments/assets/b4af86b8-61df-4d37-973e-b93c8b371c47">
 
-Cyclistic: An in-depth analysis focused on casual rider and annual member behaviors
+## Cyclistic: An in-depth analysis focused on casual rider and annual member behaviors
 
 ---
 
